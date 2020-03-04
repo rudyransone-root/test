@@ -1,16 +1,15 @@
 **ANSI Color**
 
 **Colors**
-`
-    BLACK,
-    WHITE,
-    GREEN,
-    RED,
-    YELLOW,
-    BLUE,
-    PURPLE,
-    CYAN
-`
+*BLACK,
+*WHITE,
+*GREEN,
+*RED,
+*YELLOW,
+*BLUE,
+*PURPLE,
+*CYAN
+
 **Functions**
 `
     color.fg(Colors.TYPE);
